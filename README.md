@@ -1,3 +1,4 @@
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=Prathibha%20Shet&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=AI%20%7C%20Data%20%7C%20Software&descAlignY=55&descSize=18)
 # Hi, I'm Prathibha Shet 👋
 
 🎓 Information Science & Engineering Student | 💻 Software Development | 📊 Data Analytics | 🤖 AI & Machine Learning
