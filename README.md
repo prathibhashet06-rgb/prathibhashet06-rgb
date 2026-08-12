@@ -1,117 +1,63 @@
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=180&section=header&text=Prathibha%20Shet&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=AI%20%7C%20Data%20%7C%20Software&descAlignY=55&descSize=18)
-# Hi, I'm Prathibha Shet 👋
+<div align="center">
 
-🎓 Information Science & Engineering Student | 💻 Software Development | 📊 Data Analytics | 🤖 AI & Machine Learning
+# 👩🏻‍💻 PRATHIBHA SHET
 
-I am an Information Science & Engineering student passionate about building practical solutions using software development, data analytics, and artificial intelligence.
+### 🛰️ Information Science & Engineering Student | AI & Data Analytics Enthusiast
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=8BE9FD&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+space+%F0%9F%8C%8C;Exploring+AI+%7C+Data+%7C+Technology;Building+Projects+with+Python+%F0%9F%90%8D;Learning+Something+New+Every+Day+%F0%9F%9A%80" />
 
-## 👩‍💻 About Me
+<br>
 
-* 🎓 B.E. in Information Science & Engineering
-* 💡 Interested in AI, Machine Learning, Data Analytics and Software Development
-* 📊 Interested in data visualization and dashboard development
-* 🌱 Continuously learning and improving my technical skills
-* 🤝 Interested in collaboration, projects and learning opportunities
+<img src="https://komarev.com/ghpvc/?username=prathibhashet06-rgb&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+# 🛰️ WHO AM I?
 
-**Programming:**
-Python • SQL • Java • C
+Hi! I'm **Prathibha Shet**, an Information Science & Engineering student passionate about technology, problem-solving and building practical projects.
 
-**Data Analytics:**
-Microsoft Excel • Power BI • Tableau • Data Visualization • Dashboard Development
+I'm particularly interested in:
 
-**Databases:**
-MySQL • MongoDB
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Analytics
+- 🐍 Python Programming
+- 💻 Software Development
+- 🌐 Web Technologies
+- 🗄️ Databases
+- 🔍 Computer Vision
 
-**Libraries & Frameworks:**
-Pandas • NumPy • Scikit-learn • Flask
+I enjoy learning new technologies and turning ideas into practical projects.
 
-**Concepts:**
-Machine Learning • AI • Data Cleaning • OOP • DBMS • Operating Systems • Computer Networks
-
-**Tools:**
-VS Code • Git • MS Office
+> 🌌 **Curiosity is my compass. Code is my spacecraft.**
 
 ---
 
-## 🚀 Projects
+# 🎓 EDUCATION
 
-### 🩺 Automated Retinal Layer Thickness Estimation and Disease Severity Assessment
+### 🎓 Bachelor of Engineering — Information Science & Engineering
 
-**Python • Deep Learning • Computer Vision**
+**Canara Engineering College**
 
-* Developed a deep learning model for retinal layer thickness estimation using medical images.
-* Applied image processing and computer vision techniques to assess disease severity.
-* Performed data preprocessing and feature extraction for AI-assisted healthcare diagnostics.
+**VTU | Karnataka**
 
-### 🤖 AI-Based Product Finder Chatbot
-
-**Python • Flask • NLP**
-
-* Developed an AI-powered chatbot for product recommendations.
-* Implemented Natural Language Processing techniques for query understanding.
-* Designed an intuitive interface for improved product discovery.
-
-### 🥗 AI-Based Ingredient Substitution Recommendation System
-
-**Python • Flask • Pandas • HTML • CSS**
-
-* Developed an AI-powered application to recommend ingredient substitutes.
-* Considered taste, texture and functional properties for recommendations.
-* Built a simple and user-friendly web interface.
-
-### ❤️ Cardiac Risk Prediction System
-
-**Python • Scikit-learn • Pandas • Machine Learning**
-
-* Built a machine learning model to predict cardiac disease risk.
-* Performed data preprocessing, feature engineering and exploratory data analysis.
-* Applied classification algorithms to identify high-risk patients.
-* Evaluated model performance using standard machine learning metrics.
+Currently developing my skills in programming, software development, databases, data analytics and artificial intelligence.
 
 ---
 
-## 📜 Certifications
+# 🚀 MY CURRENT MISSION
 
-* Deloitte Data Analytics Job Simulation — Forage
-* Learning Microsoft Power BI
-* UX Design Introduction Job Simulation — Forage
-* Introduction to MongoDB (For Students)
-* C Training — IIT Bombay Spoken Tutorial Project
-* Java Training — EduPyramids, SINE, IIT Bombay
-* Software Engineering and Agile Software Development
-
----
-
-## 🏆 Achievements
-
-* 🏅 XYPHERIA Hackathon
-* 🎯 Event Coordinator
-* 🤝 Teamwork, problem-solving and analytical thinking through academic projects and industry simulations
-
----
-
-## 📚 Currently Learning
-
-* Artificial Intelligence & Machine Learning
-* Data Analytics
-* SQL & Database Management
-* Software Development
-* Full-Stack Development
-
----
-
-## 🔗 Connect With Me
-
-📧 Email: [prathibhashet06@gmail.com](mailto:prathibhashet06@gmail.com)
-💼 LinkedIn: [Prathibha Shet](https://linkedin.com/Prathibha)
-💻 GitHub: [prathibhashet06-rgb](https://github.com/prathibhashet06-rgb)
-
----
-
-⭐ Thanks for visiting my profile!
+```text
+┌─────────────────────────────────────────────┐
+│              🛰️ MISSION STATUS             │
+├─────────────────────────────────────────────┤
+│                                             │
+│  📚 Learning        → Active                │
+│  💻 Coding          → Active                │
+│  🤖 AI/ML           → Exploring             │
+│  📊 Data Analytics  → Building              │
+│  🚀 Projects        → In Progress           │
+│  🔭 Future Skills   → Loading...            │
+│                                             │
+└─────────────────────────────────────────────┘
